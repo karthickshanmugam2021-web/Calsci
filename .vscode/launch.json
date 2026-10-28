@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open box breathing VS Copilot generated.html",
+            "file": "d:\\User files(K)\\Documents\\Projects\\Website for Meditation\\box breathing VS Copilot generated.html"
+        }
+    ]
+}
